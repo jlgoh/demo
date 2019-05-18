@@ -4,3 +4,5 @@ Simple readme file
 ## some text
 
 Trouble solved
+
+stash
